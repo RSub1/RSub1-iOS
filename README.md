@@ -28,7 +28,7 @@ After installing cocoapods, you run
 
 to retrieve the external dependencies.
 
-After this step you can open the xcode workspace. Make sure to always open the Xcode workspace instead of the project file when building your project.
+After this step you can open the Xcode workspace. Make sure to always open the Xcode workspace instead of the project file when building your project.
 
     open App.xcworkspace
 
@@ -41,7 +41,7 @@ To use the Nearby Messages API you need a Google Nearby Messages API Key.
  1. Create an API key for iOS, and enter your app's bundle ID.
 1. Insert your API key into `AppDelegate.m`.
 
-### xcode-Project
+### Xcode-Project
 
 In order to build and run the app on a test device you need to do some extra things:
 
